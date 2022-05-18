@@ -1,0 +1,2323 @@
+{
+
+    "data": {
+
+        "assetClassification": [
+
+            {
+
+                "id": 11,
+
+                "className": "AddtestOnServer",
+
+                "iconName": "icon.svg",
+
+                "placeHolder": "name"
+
+            }
+
+        ],
+
+        "assetClassCategoryMap": [],
+
+        "bookAttributes": [],
+
+        "categoryMaster": [
+
+            {
+
+                "id": 1,
+
+                "categoryName": "Religion",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 2,
+
+                "categoryName": "Business",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 3,
+
+                "categoryName": "Law",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 4,
+
+                "categoryName": "Art & Music",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 5,
+
+                "categoryName": "Biographies",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 6,
+
+                "categoryName": "Comics",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 7,
+
+                "categoryName": "Computers & Technology",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 8,
+
+                "categoryName": "Cooking",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 9,
+
+                "categoryName": "Education & Reference",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 10,
+
+                "categoryName": "Entertainment",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 11,
+
+                "categoryName": "Health & Fitness",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 12,
+
+                "categoryName": "History",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 13,
+
+                "categoryName": "Hobbies & Crafts",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 14,
+
+                "categoryName": "Home & Garden",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 15,
+
+                "categoryName": "Horror",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 16,
+
+                "categoryName": "Kids",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 17,
+
+                "categoryName": "Literature & Fiction",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 18,
+
+                "categoryName": "Medical",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 19,
+
+                "categoryName": "Mysteries",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 20,
+
+                "categoryName": "Parenting",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 21,
+
+                "categoryName": "Romance",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 22,
+
+                "categoryName": "Sci-Fi & Fantasy",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 23,
+
+                "categoryName": "Science & Math",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 24,
+
+                "categoryName": "Self-Help",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 25,
+
+                "categoryName": "Social Sciences",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 26,
+
+                "categoryName": "Sports",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 27,
+
+                "categoryName": "Teen",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 28,
+
+                "categoryName": "Travel",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 29,
+
+                "categoryName": "True Crime",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 30,
+
+                "categoryName": "Wildlife",
+
+                "iconName": null
+
+            }
+
+        ],
+
+        "categorySubCategoryMap": [],
+
+        "locationMaster": [
+
+            {
+
+                "id": 1,
+
+                "locationName": "V17-BC1-C1-S1",
+
+                "rfidTag": "V17-BC1-C1-S1",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 2,
+
+                "locationName": "V17-BC1-C1-S2",
+
+                "rfidTag": "V17-BC1-C1-S2",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 3,
+
+                "locationName": "V17-BC1-C1-S3",
+
+                "rfidTag": "V17-BC1-C1-S3",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 4,
+
+                "locationName": "V17-BC1-C1-S4",
+
+                "rfidTag": "V17-BC1-C1-S4",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 5,
+
+                "locationName": "V17-BC1-C1-S5",
+
+                "rfidTag": "V17-BC1-C1-S5",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 6,
+
+                "locationName": "V17-BC1-C1-S6",
+
+                "rfidTag": "V17-BC1-C1-S6",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 7,
+
+                "locationName": "V17-BC1-C1-S7",
+
+                "rfidTag": "V17-BC1-C1-S7",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 8,
+
+                "locationName": "V17-BC1-C2-S1",
+
+                "rfidTag": "V17-BC1-C2-S1",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 9,
+
+                "locationName": "V17-BC1-C2-S2",
+
+                "rfidTag": "V17-BC1-C2-S2",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 10,
+
+                "locationName": "V17-BC1-C2-S3",
+
+                "rfidTag": "V17-BC1-C2-S3",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 11,
+
+                "locationName": "V17-BC1-C2-S4",
+
+                "rfidTag": "V17-BC1-C2-S4",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 12,
+
+                "locationName": "V17-BC1-C2-S5",
+
+                "rfidTag": "V17-BC1-C2-S5",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 13,
+
+                "locationName": "V17-BC1-C2-S6",
+
+                "rfidTag": "V17-BC1-C2-S6",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 14,
+
+                "locationName": "V17-BC1-C3-S1",
+
+                "rfidTag": "V17-BC1-C3-S1",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 15,
+
+                "locationName": "V17-BC1-C3-S2",
+
+                "rfidTag": "V17-BC1-C3-S2",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 16,
+
+                "locationName": "V17-BC1-C3-S3",
+
+                "rfidTag": "V17-BC1-C3-S3",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 17,
+
+                "locationName": "V17-BC1-C3-S4",
+
+                "rfidTag": "V17-BC1-C3-S4",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 18,
+
+                "locationName": "V17-BC1-C3-S5",
+
+                "rfidTag": "V17-BC1-C3-S5",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 19,
+
+                "locationName": "V17-BC1-C3-S6",
+
+                "rfidTag": "V17-BC1-C3-S6",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 20,
+
+                "locationName": "V17-BC1-C3-S7",
+
+                "rfidTag": "V17-BC1-C3-S7",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 21,
+
+                "locationName": "V17-BC1-C4-S1",
+
+                "rfidTag": "V17-BC1-C4-S1",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 22,
+
+                "locationName": "V17-BC1-C4-S2",
+
+                "rfidTag": "V17-BC1-C4-S2",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 23,
+
+                "locationName": "V17-BC1-C4-S3",
+
+                "rfidTag": "V17-BC1-C4-S3",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 24,
+
+                "locationName": "V17-BC1-C4-S4",
+
+                "rfidTag": "V17-BC1-C4-S4",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 25,
+
+                "locationName": "V17-BC1-C4-S5",
+
+                "rfidTag": "V17-BC1-C4-S5",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 26,
+
+                "locationName": "V17-BC1-C4-S6",
+
+                "rfidTag": "V17-BC1-C4-S6",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 27,
+
+                "locationName": "V17-BC1-C5-S1",
+
+                "rfidTag": "V17-BC1-C5-S1",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 28,
+
+                "locationName": "V17-BC1-C5-S2",
+
+                "rfidTag": "V17-BC1-C5-S2",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 29,
+
+                "locationName": "V17-BC1-C5-S3",
+
+                "rfidTag": "V17-BC1-C5-S3",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 30,
+
+                "locationName": "V17-BC1-C5-S4",
+
+                "rfidTag": "V17-BC1-C5-S4",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 31,
+
+                "locationName": "V17-BC1-C5-S5",
+
+                "rfidTag": "V17-BC1-C5-S5",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 32,
+
+                "locationName": "V17-BC1-C5-S6",
+
+                "rfidTag": "V17-BC1-C5-S6",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 33,
+
+                "locationName": "V17-BC1-C5-S7",
+
+                "rfidTag": "V17-BC1-C5-S7",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 34,
+
+                "locationName": "V17-BC2-C1-S1",
+
+                "rfidTag": "V17-BC2-C1-S1",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 35,
+
+                "locationName": "V17-BC2-C1-S2",
+
+                "rfidTag": "V17-BC2-C1-S2",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 36,
+
+                "locationName": "V17-BC2-C1-S3",
+
+                "rfidTag": "V17-BC2-C1-S3",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 37,
+
+                "locationName": "V17-BC2-C1-S4",
+
+                "rfidTag": "V17-BC2-C1-S4",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 38,
+
+                "locationName": "V17-BC2-C1-S5",
+
+                "rfidTag": "V17-BC2-C1-S5",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 39,
+
+                "locationName": "V17-BC2-C1-S6",
+
+                "rfidTag": "V17-BC2-C1-S6",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 40,
+
+                "locationName": "V17-BC2-C1-S7",
+
+                "rfidTag": "V17-BC2-C1-S7",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 41,
+
+                "locationName": "V17-BC2-C1-S8",
+
+                "rfidTag": "V17-BC2-C1-S8",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 42,
+
+                "locationName": "V17-BC3-C1-S1",
+
+                "rfidTag": "V17-BC3-C1-S1",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 43,
+
+                "locationName": "V17-BC3-C1-S2",
+
+                "rfidTag": "V17-BC3-C1-S2",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 44,
+
+                "locationName": "V17-BC3-C1-S3",
+
+                "rfidTag": "V17-BC3-C1-S3",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 45,
+
+                "locationName": "V17-BC3-C1-S4",
+
+                "rfidTag": "V17-BC3-C1-S4",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 46,
+
+                "locationName": "V17-BC3-C1-S5",
+
+                "rfidTag": "V17-BC3-C1-S5",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 47,
+
+                "locationName": "V17-BC3-C1-S6",
+
+                "rfidTag": "V17-BC3-C1-S6",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 48,
+
+                "locationName": "V17-BC3-C1-S7",
+
+                "rfidTag": "V17-BC3-C1-S7",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 49,
+
+                "locationName": "V17-BC3-C2-S1",
+
+                "rfidTag": "V17-BC3-C2-S1",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 50,
+
+                "locationName": "V17-BC3-C2-S2",
+
+                "rfidTag": "V17-BC3-C2-S2",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 51,
+
+                "locationName": "V17-BC3-C2-S3",
+
+                "rfidTag": "V17-BC3-C2-S3",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 52,
+
+                "locationName": "V17-BC3-C2-S4",
+
+                "rfidTag": "V17-BC3-C2-S4",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 53,
+
+                "locationName": "V17-BC3-C2-S5",
+
+                "rfidTag": "V17-BC3-C2-S5",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 54,
+
+                "locationName": "V17-BC3-C2-S6",
+
+                "rfidTag": "V17-BC3-C2-S6",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 55,
+
+                "locationName": "V17-BC3-C3-S1",
+
+                "rfidTag": "V17-BC3-C3-S1",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 56,
+
+                "locationName": "V17-BC3-C3-S2",
+
+                "rfidTag": "V17-BC3-C3-S2",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 57,
+
+                "locationName": "V17-BC3-C3-S3",
+
+                "rfidTag": "V17-BC3-C3-S3",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 58,
+
+                "locationName": "V17-BC3-C3-S4",
+
+                "rfidTag": "V17-BC3-C3-S4",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 59,
+
+                "locationName": "V17-BC3-C3-S5",
+
+                "rfidTag": "V17-BC3-C3-S5",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 60,
+
+                "locationName": "V17-BC3-C3-S6",
+
+                "rfidTag": "V17-BC3-C3-S6",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 61,
+
+                "locationName": "V17-BC3-C3-S7",
+
+                "rfidTag": "V17-BC3-C3-S7",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 62,
+
+                "locationName": "V17-BC3-C4-S1",
+
+                "rfidTag": "V17-BC3-C4-S1",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 63,
+
+                "locationName": "V17-BC3-C4-S2",
+
+                "rfidTag": "V17-BC3-C4-S2",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 64,
+
+                "locationName": "V17-BC3-C4-S3",
+
+                "rfidTag": "V17-BC3-C4-S3",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 65,
+
+                "locationName": "V17-BC3-C4-S4",
+
+                "rfidTag": "V17-BC3-C4-S4",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 66,
+
+                "locationName": "V17-BC3-C4-S5",
+
+                "rfidTag": "V17-BC3-C4-S5",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 67,
+
+                "locationName": "V17-BC3-C4-S6",
+
+                "rfidTag": "V17-BC3-C4-S6",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 68,
+
+                "locationName": "V17-BC3-C5-S1",
+
+                "rfidTag": "V17-BC3-C5-S1",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 69,
+
+                "locationName": "V17-BC3-C5-S2",
+
+                "rfidTag": "V17-BC3-C5-S2",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 70,
+
+                "locationName": "V17-BC3-C5-S3",
+
+                "rfidTag": "V17-BC3-C5-S3",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 71,
+
+                "locationName": "V17-BC3-C5-S4",
+
+                "rfidTag": "V17-BC3-C5-S4",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 72,
+
+                "locationName": "V17-BC3-C5-S5",
+
+                "rfidTag": "V17-BC3-C5-S5",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 73,
+
+                "locationName": "V17-BC3-C5-S6",
+
+                "rfidTag": "V17-BC3-C5-S6",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 74,
+
+                "locationName": "V17-BC3-C5-S7",
+
+                "rfidTag": "V17-BC3-C5-S7",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 75,
+
+                "locationName": "V17-BC4-C1-S1",
+
+                "rfidTag": "V17-BC4-C1-S1",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 76,
+
+                "locationName": "V17-BC4-C1-S2",
+
+                "rfidTag": "V17-BC4-C1-S2",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 77,
+
+                "locationName": "V17-BC4-C1-S3",
+
+                "rfidTag": "V17-BC4-C1-S3",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 78,
+
+                "locationName": "V17-BC4-C1-S4",
+
+                "rfidTag": "V17-BC4-C1-S4",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 79,
+
+                "locationName": "V17-BC4-C1-S5",
+
+                "rfidTag": "V17-BC4-C1-S5",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 80,
+
+                "locationName": "V17-BC4-C1-S6",
+
+                "rfidTag": "V17-BC4-C1-S6",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 81,
+
+                "locationName": "V17-BC4-C2-S1",
+
+                "rfidTag": "V17-BC4-C2-S1",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 82,
+
+                "locationName": "V17-BC4-C2-S2",
+
+                "rfidTag": "V17-BC4-C2-S2",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 83,
+
+                "locationName": "V17-BC4-C2-S3",
+
+                "rfidTag": "V17-BC4-C2-S3",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 84,
+
+                "locationName": "V17-BC4-C3-S1",
+
+                "rfidTag": "V17-BC4-C3-S1",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 85,
+
+                "locationName": "V17-BC4-C3-S2",
+
+                "rfidTag": "V17-BC4-C3-S2",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 86,
+
+                "locationName": "V17-BC4-C3-S3",
+
+                "rfidTag": "V17-BC4-C3-S3",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 87,
+
+                "locationName": "V17-BC4-C4-S1",
+
+                "rfidTag": "V17-BC4-C4-S1",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 88,
+
+                "locationName": "V17-BC4-C4-S2",
+
+                "rfidTag": "V17-BC4-C4-S2",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 89,
+
+                "locationName": "V17-BC4-C4-S3",
+
+                "rfidTag": "V17-BC4-C4-S3",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 90,
+
+                "locationName": "V17-BC4-C5-S1",
+
+                "rfidTag": "V17-BC4-C5-S1",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 91,
+
+                "locationName": "V17-BC4-C5-S2",
+
+                "rfidTag": "V17-BC4-C5-S2",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 92,
+
+                "locationName": "V17-BC4-C5-S3",
+
+                "rfidTag": "V17-BC4-C5-S3",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 93,
+
+                "locationName": "V17-BC4-C6-S1",
+
+                "rfidTag": "V17-BC4-C6-S1",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 94,
+
+                "locationName": "V17-BC4-C6-S2",
+
+                "rfidTag": "V17-BC4-C6-S2",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 95,
+
+                "locationName": "V17-BC4-C6-S3",
+
+                "rfidTag": "V17-BC4-C6-S3",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 96,
+
+                "locationName": "V17-BC4-C6-S4",
+
+                "rfidTag": "V17-BC4-C6-S4",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 97,
+
+                "locationName": "V17-BC4-C6-S5",
+
+                "rfidTag": "V17-BC4-C6-S5",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 98,
+
+                "locationName": "V17-BC4-C6-S6",
+
+                "rfidTag": "V17-BC4-C6-S6",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 99,
+
+                "locationName": "V17-BC4-C6-S7",
+
+                "rfidTag": "V17-BC4-C6-S7",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 100,
+
+                "locationName": "V17-BC5-C1-S1",
+
+                "rfidTag": "V17-BC5-C1-S1",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 101,
+
+                "locationName": "V17-BC5-C1-S2",
+
+                "rfidTag": "V17-BC5-C1-S2",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 102,
+
+                "locationName": "V17-BC5-C1-S3",
+
+                "rfidTag": "V17-BC5-C1-S3",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 103,
+
+                "locationName": "V17-BC5-C1-S4",
+
+                "rfidTag": "V17-BC5-C1-S4",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 104,
+
+                "locationName": "V17-BC5-C1-S5",
+
+                "rfidTag": "V17-BC5-C1-S5",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 105,
+
+                "locationName": "V17-BC5-C1-S6",
+
+                "rfidTag": "V17-BC5-C1-S6",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 106,
+
+                "locationName": "V17-BC5-C1-S7",
+
+                "rfidTag": "V17-BC5-C1-S7",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 107,
+
+                "locationName": "V17-BC5-C2-S1",
+
+                "rfidTag": "V17-BC5-C2-S1",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 108,
+
+                "locationName": "V17-BC5-C2-S2",
+
+                "rfidTag": "V17-BC5-C2-S2",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 109,
+
+                "locationName": "V17-BC5-C2-S3",
+
+                "rfidTag": "V17-BC5-C2-S3",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 110,
+
+                "locationName": "V17-BC5-C3-S1",
+
+                "rfidTag": "V17-BC5-C3-S1",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 111,
+
+                "locationName": "V17-BC5-C3-S2",
+
+                "rfidTag": "V17-BC5-C3-S2",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 112,
+
+                "locationName": "V17-BC5-C3-S3",
+
+                "rfidTag": "V17-BC5-C3-S3",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 113,
+
+                "locationName": "V17-BC5-C4-S1",
+
+                "rfidTag": "V17-BC5-C4-S1",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 114,
+
+                "locationName": "V17-BC5-C4-S2",
+
+                "rfidTag": "V17-BC5-C4-S2",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 115,
+
+                "locationName": "V17-BC5-C4-S3",
+
+                "rfidTag": "V17-BC5-C4-S3",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 116,
+
+                "locationName": "V17-BC5-C5-S1",
+
+                "rfidTag": "V17-BC5-C5-S1",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 117,
+
+                "locationName": "V17-BC5-C5-S2",
+
+                "rfidTag": "V17-BC5-C5-S2",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 118,
+
+                "locationName": "V17-BC5-C5-S3",
+
+                "rfidTag": "V17-BC5-C5-S3",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 119,
+
+                "locationName": "V17-BC5-C6-S1",
+
+                "rfidTag": "V17-BC5-C6-S1",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 120,
+
+                "locationName": "V17-BC5-C6-S2",
+
+                "rfidTag": "V17-BC5-C6-S2",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 121,
+
+                "locationName": "V17-BC5-C6-S3",
+
+                "rfidTag": "V17-BC5-C6-S3",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 122,
+
+                "locationName": "V17-BC5-C6-S4",
+
+                "rfidTag": "V17-BC5-C6-S4",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 123,
+
+                "locationName": "V17-BC5-C6-S5",
+
+                "rfidTag": "V17-BC5-C6-S5",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 124,
+
+                "locationName": "V17-BC5-C6-S6",
+
+                "rfidTag": "V17-BC5-C6-S6",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 125,
+
+                "locationName": "V17-BC6-C1-S1",
+
+                "rfidTag": "V17-BC6-C1-S1",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 126,
+
+                "locationName": "V17-BC6-C1-S2",
+
+                "rfidTag": "V17-BC6-C1-S2",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 127,
+
+                "locationName": "V17-BC6-C1-S3",
+
+                "rfidTag": "V17-BC6-C1-S3",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 128,
+
+                "locationName": "V17-BC6-C1-S4",
+
+                "rfidTag": "V17-BC6-C1-S4",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 129,
+
+                "locationName": "V17-BC6-C2-S1",
+
+                "rfidTag": "V17-BC6-C2-S1",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 130,
+
+                "locationName": "V17-BC6-C2-S2",
+
+                "rfidTag": "V17-BC6-C2-S2",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 131,
+
+                "locationName": "V17-BC6-C2-S3",
+
+                "rfidTag": "V17-BC6-C2-S3",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 132,
+
+                "locationName": "V17-BC6-C3-S1",
+
+                "rfidTag": "V17-BC6-C3-S1",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 133,
+
+                "locationName": "V17-BC6-C3-S2",
+
+                "rfidTag": "V17-BC6-C3-S2",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 134,
+
+                "locationName": "V17-BC6-C3-S3",
+
+                "rfidTag": "V17-BC6-C3-S3",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 135,
+
+                "locationName": "V17-BC6-C3-S4",
+
+                "rfidTag": "V17-BC6-C3-S4",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 136,
+
+                "locationName": "V17-BC6-C4-S1",
+
+                "rfidTag": "V17-BC6-C4-S1",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 137,
+
+                "locationName": "V17-BC6-C4-S2",
+
+                "rfidTag": "V17-BC6-C4-S2",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 138,
+
+                "locationName": "V17-BC6-C4-S3",
+
+                "rfidTag": "V17-BC6-C4-S3",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 139,
+
+                "locationName": "V17-BC6-C4-S4",
+
+                "rfidTag": "V17-BC6-C4-S4",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 140,
+
+                "locationName": "V17-BC6-C5-S1",
+
+                "rfidTag": "V17-BC6-C5-S1",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 141,
+
+                "locationName": "V17-BC6-C5-S2",
+
+                "rfidTag": "V17-BC6-C5-S2",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 142,
+
+                "locationName": "V17-BC6-C5-S3",
+
+                "rfidTag": "V17-BC6-C5-S3",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 143,
+
+                "locationName": "V17-BC6-C5-S4",
+
+                "rfidTag": "V17-BC6-C5-S4",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 144,
+
+                "locationName": "V17-BC6-C5-S5",
+
+                "rfidTag": "V17-BC6-C5-S5",
+
+                "iconName": null
+
+            }
+
+        ],
+
+        "subCategoryMaster": [],
+
+        "assetCatalogue": [],
+
+        "inventoryMaster": [
+
+            {
+
+                "scanID": "769b944b-dc33-43d9-90c7-ebf12b8420f2",
+
+                "deviceId": "A",
+
+                "locationId": 1,
+
+                "scanOn": "2022-05-16T16:01:43",
+
+                "registered": 10,
+
+                "notRegistered": 3,
+
+                "notFound": 2,
+
+                "foundOfDiffLocation": 1,
+
+                "foundOnLocation": null
+
+            },
+
+            {
+
+                "scanID": "769b944b-dc33-43d9-90c7-ebf12b8420f3",
+
+                "deviceId": "A",
+
+                "locationId": 1,
+
+                "scanOn": "2022-05-16T16:01:43",
+
+                "registered": 10,
+
+                "notRegistered": 3,
+
+                "notFound": 2,
+
+                "foundOfDiffLocation": 1,
+
+                "foundOnLocation": null
+
+            },
+
+            {
+
+                "scanID": "769b944b-dc33-43d9-90c7-ebf12b8420f4",
+
+                "deviceId": "A",
+
+                "locationId": 1,
+
+                "scanOn": "2022-05-16T16:01:43",
+
+                "registered": 10,
+
+                "notRegistered": 3,
+
+                "notFound": 2,
+
+                "foundOfDiffLocation": 1,
+
+                "foundOnLocation": null
+
+            },
+
+            {
+
+                "scanID": "769b944b-dc33-43d9-90c7-ebf12b8420f5",
+
+                "deviceId": "A",
+
+                "locationId": 1,
+
+                "scanOn": "2022-05-16T16:01:43",
+
+                "registered": 10,
+
+                "notRegistered": 3,
+
+                "notFound": 2,
+
+                "foundOfDiffLocation": 1,
+
+                "foundOnLocation": null
+
+            },
+
+            {
+
+                "scanID": "769b944b-dc33-43d9-90c7-ebf12b8420f6",
+
+                "deviceId": "A",
+
+                "locationId": 1,
+
+                "scanOn": "2022-05-16T16:01:43",
+
+                "registered": 10,
+
+                "notRegistered": 3,
+
+                "notFound": 2,
+
+                "foundOfDiffLocation": 1,
+
+                "foundOnLocation": null
+
+            },
+
+            {
+
+                "scanID": "769b944b-dc33-43d9-90c7-ebf12b8420f7",
+
+                "deviceId": "A",
+
+                "locationId": 1,
+
+                "scanOn": "2022-05-16T16:01:43",
+
+                "registered": 10,
+
+                "notRegistered": 3,
+
+                "notFound": 2,
+
+                "foundOfDiffLocation": 1,
+
+                "foundOnLocation": null
+
+            }
+
+        ],
+
+        "locationStatusMaster": [
+
+            {
+
+                "id": 1,
+
+                "status": "Borrowed"
+
+            },
+
+            {
+
+                "id": 2,
+
+                "status": "Gifted"
+
+            },
+
+            {
+
+                "id": 3,
+
+                "status": "Lost"
+
+            },
+
+            {
+
+                "id": 4,
+
+                "status": "End of Life"
+
+            },
+
+            {
+
+                "id": 5,
+
+                "status": "Available"
+
+            }
+
+        ],
+
+        "userMaster": [
+
+            {
+
+                "id": 1,
+
+                "username": "rajiv.katira",
+
+                "password": "NULL"
+
+            },
+
+            {
+
+                "id": 2,
+
+                "username": "jayesh.varadkar",
+
+                "password": null
+
+            },
+
+            {
+
+                "id": 3,
+
+                "username": "haresh.maheshwari",
+
+                "password": null
+
+            },
+
+            {
+
+                "id": 4,
+
+                "username": "mahendra.chorge",
+
+                "password": null
+
+            },
+
+            {
+
+                "id": 5,
+
+                "username": "manjinder.singh",
+
+                "password": null
+
+            },
+
+            {
+
+                "id": 6,
+
+                "username": "amit.dhavale",
+
+                "password": null
+
+            }
+
+        ],
+
+        "deviceId": "E"
+
+    },
+
+    "statusCode": 200,
+
+    "success": true,
+
+    "userMessage": "",
+
+    "systemMessage": ""
+
+}

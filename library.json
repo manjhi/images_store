@@ -6,6 +6,102 @@
 
             {
 
+                "id": 1,
+
+                "className": "My Library",
+
+                "iconName": "library.svg",
+
+                "placeHolder": "book"
+
+            },
+
+            {
+
+                "id": 2,
+
+                "className": "My Furniture",
+
+                "iconName": "furniture.svg",
+
+                "placeHolder": "furniture"
+
+            },
+
+            {
+
+                "id": 3,
+
+                "className": "My Devices",
+
+                "iconName": null,
+
+                "placeHolder": "devices"
+
+            },
+
+            {
+
+                "id": 4,
+
+                "className": "My Jewellery",
+
+                "iconName": "jewellery.svg",
+
+                "placeHolder": "jewellery"
+
+            },
+
+            {
+
+                "id": 5,
+
+                "className": "Others",
+
+                "iconName": "box.svg",
+
+                "placeHolder": "others"
+
+            },
+
+            {
+
+                "id": 8,
+
+                "className": "testonserver",
+
+                "iconName": "test2",
+
+                "placeHolder": "testName"
+
+            },
+
+            {
+
+                "id": 9,
+
+                "className": "test3",
+
+                "iconName": "test1.svg",
+
+                "placeHolder": "test1Name"
+
+            },
+
+            {
+
+                "id": 10,
+
+                "className": "finalupdatetest",
+
+                "iconName": "final.svg",
+
+                "placeHolder": "final"
+
+            },
+
+            {
+
                 "id": 11,
 
                 "className": "AddtestOnServer",
@@ -18,7 +114,529 @@
 
         ],
 
-        "assetClassCategoryMap": [],
+        "assetClassCategoryMap": [
+
+            {
+
+                "id": 1,
+
+                "classificationId": 1,
+
+                "categoryId": 1
+
+            },
+
+            {
+
+                "id": 2,
+
+                "classificationId": 1,
+
+                "categoryId": 2
+
+            },
+
+            {
+
+                "id": 3,
+
+                "classificationId": 1,
+
+                "categoryId": 3
+
+            },
+
+            {
+
+                "id": 4,
+
+                "classificationId": 1,
+
+                "categoryId": 4
+
+            },
+
+            {
+
+                "id": 5,
+
+                "classificationId": 1,
+
+                "categoryId": 5
+
+            },
+
+            {
+
+                "id": 6,
+
+                "classificationId": 1,
+
+                "categoryId": 6
+
+            },
+
+            {
+
+                "id": 7,
+
+                "classificationId": 1,
+
+                "categoryId": 7
+
+            },
+
+            {
+
+                "id": 8,
+
+                "classificationId": 1,
+
+                "categoryId": 8
+
+            },
+
+            {
+
+                "id": 9,
+
+                "classificationId": 1,
+
+                "categoryId": 9
+
+            },
+
+            {
+
+                "id": 10,
+
+                "classificationId": 1,
+
+                "categoryId": 10
+
+            },
+
+            {
+
+                "id": 11,
+
+                "classificationId": 1,
+
+                "categoryId": 11
+
+            },
+
+            {
+
+                "id": 12,
+
+                "classificationId": 1,
+
+                "categoryId": 12
+
+            },
+
+            {
+
+                "id": 13,
+
+                "classificationId": 1,
+
+                "categoryId": 13
+
+            },
+
+            {
+
+                "id": 14,
+
+                "classificationId": 1,
+
+                "categoryId": 14
+
+            },
+
+            {
+
+                "id": 15,
+
+                "classificationId": 1,
+
+                "categoryId": 15
+
+            },
+
+            {
+
+                "id": 16,
+
+                "classificationId": 1,
+
+                "categoryId": 16
+
+            },
+
+            {
+
+                "id": 17,
+
+                "classificationId": 1,
+
+                "categoryId": 17
+
+            },
+
+            {
+
+                "id": 18,
+
+                "classificationId": 1,
+
+                "categoryId": 18
+
+            },
+
+            {
+
+                "id": 19,
+
+                "classificationId": 1,
+
+                "categoryId": 19
+
+            },
+
+            {
+
+                "id": 20,
+
+                "classificationId": 1,
+
+                "categoryId": 20
+
+            },
+
+            {
+
+                "id": 21,
+
+                "classificationId": 1,
+
+                "categoryId": 21
+
+            },
+
+            {
+
+                "id": 22,
+
+                "classificationId": 1,
+
+                "categoryId": 22
+
+            },
+
+            {
+
+                "id": 23,
+
+                "classificationId": 1,
+
+                "categoryId": 23
+
+            },
+
+            {
+
+                "id": 24,
+
+                "classificationId": 1,
+
+                "categoryId": 24
+
+            },
+
+            {
+
+                "id": 25,
+
+                "classificationId": 1,
+
+                "categoryId": 25
+
+            },
+
+            {
+
+                "id": 26,
+
+                "classificationId": 1,
+
+                "categoryId": 26
+
+            },
+
+            {
+
+                "id": 27,
+
+                "classificationId": 1,
+
+                "categoryId": 27
+
+            },
+
+            {
+
+                "id": 28,
+
+                "classificationId": 1,
+
+                "categoryId": 28
+
+            },
+
+            {
+
+                "id": 29,
+
+                "classificationId": 1,
+
+                "categoryId": 29
+
+            },
+
+            {
+
+                "id": 30,
+
+                "classificationId": 2,
+
+                "categoryId": 30
+
+            },
+
+            {
+
+                "id": 31,
+
+                "classificationId": 2,
+
+                "categoryId": 31
+
+            },
+
+            {
+
+                "id": 32,
+
+                "classificationId": 2,
+
+                "categoryId": 32
+
+            },
+
+            {
+
+                "id": 34,
+
+                "classificationId": 2,
+
+                "categoryId": 34
+
+            },
+
+            {
+
+                "id": 35,
+
+                "classificationId": 2,
+
+                "categoryId": 35
+
+            },
+
+            {
+
+                "id": 36,
+
+                "classificationId": 2,
+
+                "categoryId": 36
+
+            },
+
+            {
+
+                "id": 39,
+
+                "classificationId": 1,
+
+                "categoryId": 39
+
+            },
+
+            {
+
+                "id": 40,
+
+                "classificationId": 2,
+
+                "categoryId": 40
+
+            },
+
+            {
+
+                "id": 41,
+
+                "classificationId": 5,
+
+                "categoryId": 41
+
+            },
+
+            {
+
+                "id": 44,
+
+                "classificationId": 3,
+
+                "categoryId": 44
+
+            },
+
+            {
+
+                "id": 45,
+
+                "classificationId": 2,
+
+                "categoryId": 45
+
+            },
+
+            {
+
+                "id": 46,
+
+                "classificationId": 1,
+
+                "categoryId": 46
+
+            },
+
+            {
+
+                "id": 47,
+
+                "classificationId": 5,
+
+                "categoryId": 47
+
+            },
+
+            {
+
+                "id": 48,
+
+                "classificationId": 1,
+
+                "categoryId": 48
+
+            },
+
+            {
+
+                "id": 49,
+
+                "classificationId": 5,
+
+                "categoryId": 49
+
+            },
+
+            {
+
+                "id": 50,
+
+                "classificationId": 1,
+
+                "categoryId": 50
+
+            },
+
+            {
+
+                "id": 51,
+
+                "classificationId": 5,
+
+                "categoryId": 51
+
+            },
+
+            {
+
+                "id": 52,
+
+                "classificationId": 1,
+
+                "categoryId": 52
+
+            },
+
+            {
+
+                "id": 53,
+
+                "classificationId": 5,
+
+                "categoryId": 53
+
+            },
+
+            {
+
+                "id": 54,
+
+                "classificationId": 1,
+
+                "categoryId": 54
+
+            },
+
+            {
+
+                "id": 55,
+
+                "classificationId": 5,
+
+                "categoryId": 55
+
+            },
+
+            {
+
+                "id": 56,
+
+                "classificationId": 1,
+
+                "categoryId": 56
+
+            },
+
+            {
+
+                "id": 57,
+
+                "classificationId": 5,
+
+                "categoryId": 57
+
+            }
+
+        ],
 
         "bookAttributes": [],
 
@@ -326,7 +944,1919 @@
 
         ],
 
-        "categorySubCategoryMap": [],
+        "categorySubCategoryMap": [
+
+            {
+
+                "id": 1,
+
+                "categoryId": 1,
+
+                "subCategoryId": 1
+
+            },
+
+            {
+
+                "id": 2,
+
+                "categoryId": 1,
+
+                "subCategoryId": 2
+
+            },
+
+            {
+
+                "id": 3,
+
+                "categoryId": 1,
+
+                "subCategoryId": 3
+
+            },
+
+            {
+
+                "id": 4,
+
+                "categoryId": 1,
+
+                "subCategoryId": 4
+
+            },
+
+            {
+
+                "id": 5,
+
+                "categoryId": 1,
+
+                "subCategoryId": 5
+
+            },
+
+            {
+
+                "id": 6,
+
+                "categoryId": 1,
+
+                "subCategoryId": 6
+
+            },
+
+            {
+
+                "id": 7,
+
+                "categoryId": 1,
+
+                "subCategoryId": 7
+
+            },
+
+            {
+
+                "id": 8,
+
+                "categoryId": 1,
+
+                "subCategoryId": 8
+
+            },
+
+            {
+
+                "id": 9,
+
+                "categoryId": 1,
+
+                "subCategoryId": 9
+
+            },
+
+            {
+
+                "id": 10,
+
+                "categoryId": 1,
+
+                "subCategoryId": 10
+
+            },
+
+            {
+
+                "id": 11,
+
+                "categoryId": 1,
+
+                "subCategoryId": 11
+
+            },
+
+            {
+
+                "id": 12,
+
+                "categoryId": 1,
+
+                "subCategoryId": 12
+
+            },
+
+            {
+
+                "id": 13,
+
+                "categoryId": 1,
+
+                "subCategoryId": 13
+
+            },
+
+            {
+
+                "id": 14,
+
+                "categoryId": 1,
+
+                "subCategoryId": 14
+
+            },
+
+            {
+
+                "id": 15,
+
+                "categoryId": 1,
+
+                "subCategoryId": 15
+
+            },
+
+            {
+
+                "id": 16,
+
+                "categoryId": 1,
+
+                "subCategoryId": 16
+
+            },
+
+            {
+
+                "id": 17,
+
+                "categoryId": 1,
+
+                "subCategoryId": 17
+
+            },
+
+            {
+
+                "id": 18,
+
+                "categoryId": 1,
+
+                "subCategoryId": 18
+
+            },
+
+            {
+
+                "id": 19,
+
+                "categoryId": 1,
+
+                "subCategoryId": 19
+
+            },
+
+            {
+
+                "id": 20,
+
+                "categoryId": 1,
+
+                "subCategoryId": 20
+
+            },
+
+            {
+
+                "id": 21,
+
+                "categoryId": 1,
+
+                "subCategoryId": 21
+
+            },
+
+            {
+
+                "id": 22,
+
+                "categoryId": 1,
+
+                "subCategoryId": 22
+
+            },
+
+            {
+
+                "id": 23,
+
+                "categoryId": 2,
+
+                "subCategoryId": 23
+
+            },
+
+            {
+
+                "id": 24,
+
+                "categoryId": 2,
+
+                "subCategoryId": 24
+
+            },
+
+            {
+
+                "id": 25,
+
+                "categoryId": 2,
+
+                "subCategoryId": 25
+
+            },
+
+            {
+
+                "id": 26,
+
+                "categoryId": 2,
+
+                "subCategoryId": 26
+
+            },
+
+            {
+
+                "id": 27,
+
+                "categoryId": 2,
+
+                "subCategoryId": 27
+
+            },
+
+            {
+
+                "id": 28,
+
+                "categoryId": 2,
+
+                "subCategoryId": 28
+
+            },
+
+            {
+
+                "id": 29,
+
+                "categoryId": 2,
+
+                "subCategoryId": 29
+
+            },
+
+            {
+
+                "id": 30,
+
+                "categoryId": 2,
+
+                "subCategoryId": 30
+
+            },
+
+            {
+
+                "id": 31,
+
+                "categoryId": 2,
+
+                "subCategoryId": 31
+
+            },
+
+            {
+
+                "id": 32,
+
+                "categoryId": 2,
+
+                "subCategoryId": 32
+
+            },
+
+            {
+
+                "id": 33,
+
+                "categoryId": 2,
+
+                "subCategoryId": 33
+
+            },
+
+            {
+
+                "id": 34,
+
+                "categoryId": 2,
+
+                "subCategoryId": 34
+
+            },
+
+            {
+
+                "id": 35,
+
+                "categoryId": 2,
+
+                "subCategoryId": 35
+
+            },
+
+            {
+
+                "id": 36,
+
+                "categoryId": 2,
+
+                "subCategoryId": 22
+
+            },
+
+            {
+
+                "id": 37,
+
+                "categoryId": 3,
+
+                "subCategoryId": 36
+
+            },
+
+            {
+
+                "id": 38,
+
+                "categoryId": 3,
+
+                "subCategoryId": 37
+
+            },
+
+            {
+
+                "id": 39,
+
+                "categoryId": 3,
+
+                "subCategoryId": 38
+
+            },
+
+            {
+
+                "id": 40,
+
+                "categoryId": 3,
+
+                "subCategoryId": 39
+
+            },
+
+            {
+
+                "id": 41,
+
+                "categoryId": 3,
+
+                "subCategoryId": 40
+
+            },
+
+            {
+
+                "id": 42,
+
+                "categoryId": 3,
+
+                "subCategoryId": 41
+
+            },
+
+            {
+
+                "id": 43,
+
+                "categoryId": 3,
+
+                "subCategoryId": 42
+
+            },
+
+            {
+
+                "id": 44,
+
+                "categoryId": 3,
+
+                "subCategoryId": 43
+
+            },
+
+            {
+
+                "id": 45,
+
+                "categoryId": 3,
+
+                "subCategoryId": 22
+
+            },
+
+            {
+
+                "id": 46,
+
+                "categoryId": 4,
+
+                "subCategoryId": 44
+
+            },
+
+            {
+
+                "id": 47,
+
+                "categoryId": 4,
+
+                "subCategoryId": 45
+
+            },
+
+            {
+
+                "id": 48,
+
+                "categoryId": 4,
+
+                "subCategoryId": 46
+
+            },
+
+            {
+
+                "id": 49,
+
+                "categoryId": 4,
+
+                "subCategoryId": 47
+
+            },
+
+            {
+
+                "id": 50,
+
+                "categoryId": 4,
+
+                "subCategoryId": 48
+
+            },
+
+            {
+
+                "id": 51,
+
+                "categoryId": 4,
+
+                "subCategoryId": 22
+
+            },
+
+            {
+
+                "id": 52,
+
+                "categoryId": 5,
+
+                "subCategoryId": 49
+
+            },
+
+            {
+
+                "id": 53,
+
+                "categoryId": 5,
+
+                "subCategoryId": 50
+
+            },
+
+            {
+
+                "id": 54,
+
+                "categoryId": 5,
+
+                "subCategoryId": 51
+
+            },
+
+            {
+
+                "id": 55,
+
+                "categoryId": 5,
+
+                "subCategoryId": 52
+
+            },
+
+            {
+
+                "id": 56,
+
+                "categoryId": 5,
+
+                "subCategoryId": 22
+
+            },
+
+            {
+
+                "id": 57,
+
+                "categoryId": 6,
+
+                "subCategoryId": 53
+
+            },
+
+            {
+
+                "id": 58,
+
+                "categoryId": 6,
+
+                "subCategoryId": 54
+
+            },
+
+            {
+
+                "id": 59,
+
+                "categoryId": 6,
+
+                "subCategoryId": 55
+
+            },
+
+            {
+
+                "id": 60,
+
+                "categoryId": 6,
+
+                "subCategoryId": 56
+
+            },
+
+            {
+
+                "id": 61,
+
+                "categoryId": 6,
+
+                "subCategoryId": 22
+
+            },
+
+            {
+
+                "id": 62,
+
+                "categoryId": 7,
+
+                "subCategoryId": 57
+
+            },
+
+            {
+
+                "id": 63,
+
+                "categoryId": 7,
+
+                "subCategoryId": 58
+
+            },
+
+            {
+
+                "id": 64,
+
+                "categoryId": 7,
+
+                "subCategoryId": 59
+
+            },
+
+            {
+
+                "id": 65,
+
+                "categoryId": 7,
+
+                "subCategoryId": 60
+
+            },
+
+            {
+
+                "id": 66,
+
+                "categoryId": 7,
+
+                "subCategoryId": 22
+
+            },
+
+            {
+
+                "id": 67,
+
+                "categoryId": 8,
+
+                "subCategoryId": 61
+
+            },
+
+            {
+
+                "id": 68,
+
+                "categoryId": 8,
+
+                "subCategoryId": 62
+
+            },
+
+            {
+
+                "id": 69,
+
+                "categoryId": 8,
+
+                "subCategoryId": 63
+
+            },
+
+            {
+
+                "id": 70,
+
+                "categoryId": 8,
+
+                "subCategoryId": 64
+
+            },
+
+            {
+
+                "id": 71,
+
+                "categoryId": 8,
+
+                "subCategoryId": 65
+
+            },
+
+            {
+
+                "id": 72,
+
+                "categoryId": 8,
+
+                "subCategoryId": 22
+
+            },
+
+            {
+
+                "id": 73,
+
+                "categoryId": 9,
+
+                "subCategoryId": 66
+
+            },
+
+            {
+
+                "id": 74,
+
+                "categoryId": 9,
+
+                "subCategoryId": 67
+
+            },
+
+            {
+
+                "id": 75,
+
+                "categoryId": 9,
+
+                "subCategoryId": 68
+
+            },
+
+            {
+
+                "id": 76,
+
+                "categoryId": 9,
+
+                "subCategoryId": 69
+
+            },
+
+            {
+
+                "id": 77,
+
+                "categoryId": 9,
+
+                "subCategoryId": 70
+
+            },
+
+            {
+
+                "id": 78,
+
+                "categoryId": 9,
+
+                "subCategoryId": 22
+
+            },
+
+            {
+
+                "id": 79,
+
+                "categoryId": 10,
+
+                "subCategoryId": 71
+
+            },
+
+            {
+
+                "id": 80,
+
+                "categoryId": 10,
+
+                "subCategoryId": 72
+
+            },
+
+            {
+
+                "id": 81,
+
+                "categoryId": 10,
+
+                "subCategoryId": 73
+
+            },
+
+            {
+
+                "id": 82,
+
+                "categoryId": 10,
+
+                "subCategoryId": 74
+
+            },
+
+            {
+
+                "id": 83,
+
+                "categoryId": 10,
+
+                "subCategoryId": 75
+
+            },
+
+            {
+
+                "id": 84,
+
+                "categoryId": 10,
+
+                "subCategoryId": 22
+
+            },
+
+            {
+
+                "id": 85,
+
+                "categoryId": 11,
+
+                "subCategoryId": 76
+
+            },
+
+            {
+
+                "id": 86,
+
+                "categoryId": 11,
+
+                "subCategoryId": 77
+
+            },
+
+            {
+
+                "id": 87,
+
+                "categoryId": 11,
+
+                "subCategoryId": 78
+
+            },
+
+            {
+
+                "id": 88,
+
+                "categoryId": 11,
+
+                "subCategoryId": 79
+
+            },
+
+            {
+
+                "id": 89,
+
+                "categoryId": 11,
+
+                "subCategoryId": 80
+
+            },
+
+            {
+
+                "id": 90,
+
+                "categoryId": 11,
+
+                "subCategoryId": 81
+
+            },
+
+            {
+
+                "id": 91,
+
+                "categoryId": 11,
+
+                "subCategoryId": 22
+
+            },
+
+            {
+
+                "id": 92,
+
+                "categoryId": 12,
+
+                "subCategoryId": 81
+
+            },
+
+            {
+
+                "id": 93,
+
+                "categoryId": 12,
+
+                "subCategoryId": 82
+
+            },
+
+            {
+
+                "id": 94,
+
+                "categoryId": 12,
+
+                "subCategoryId": 83
+
+            },
+
+            {
+
+                "id": 95,
+
+                "categoryId": 12,
+
+                "subCategoryId": 84
+
+            },
+
+            {
+
+                "id": 96,
+
+                "categoryId": 12,
+
+                "subCategoryId": 22
+
+            },
+
+            {
+
+                "id": 97,
+
+                "categoryId": 13,
+
+                "subCategoryId": 85
+
+            },
+
+            {
+
+                "id": 98,
+
+                "categoryId": 13,
+
+                "subCategoryId": 86
+
+            },
+
+            {
+
+                "id": 99,
+
+                "categoryId": 13,
+
+                "subCategoryId": 87
+
+            },
+
+            {
+
+                "id": 100,
+
+                "categoryId": 13,
+
+                "subCategoryId": 88
+
+            },
+
+            {
+
+                "id": 101,
+
+                "categoryId": 13,
+
+                "subCategoryId": 22
+
+            },
+
+            {
+
+                "id": 102,
+
+                "categoryId": 14,
+
+                "subCategoryId": 89
+
+            },
+
+            {
+
+                "id": 103,
+
+                "categoryId": 14,
+
+                "subCategoryId": 90
+
+            },
+
+            {
+
+                "id": 104,
+
+                "categoryId": 14,
+
+                "subCategoryId": 91
+
+            },
+
+            {
+
+                "id": 105,
+
+                "categoryId": 14,
+
+                "subCategoryId": 92
+
+            },
+
+            {
+
+                "id": 106,
+
+                "categoryId": 14,
+
+                "subCategoryId": 93
+
+            },
+
+            {
+
+                "id": 107,
+
+                "categoryId": 14,
+
+                "subCategoryId": 22
+
+            },
+
+            {
+
+                "id": 108,
+
+                "categoryId": 15,
+
+                "subCategoryId": 94
+
+            },
+
+            {
+
+                "id": 109,
+
+                "categoryId": 15,
+
+                "subCategoryId": 95
+
+            },
+
+            {
+
+                "id": 110,
+
+                "categoryId": 15,
+
+                "subCategoryId": 96
+
+            },
+
+            {
+
+                "id": 111,
+
+                "categoryId": 15,
+
+                "subCategoryId": 97
+
+            },
+
+            {
+
+                "id": 112,
+
+                "categoryId": 15,
+
+                "subCategoryId": 98
+
+            },
+
+            {
+
+                "id": 113,
+
+                "categoryId": 15,
+
+                "subCategoryId": 22
+
+            },
+
+            {
+
+                "id": 114,
+
+                "categoryId": 16,
+
+                "subCategoryId": 99
+
+            },
+
+            {
+
+                "id": 115,
+
+                "categoryId": 16,
+
+                "subCategoryId": 100
+
+            },
+
+            {
+
+                "id": 116,
+
+                "categoryId": 16,
+
+                "subCategoryId": 101
+
+            },
+
+            {
+
+                "id": 117,
+
+                "categoryId": 16,
+
+                "subCategoryId": 102
+
+            },
+
+            {
+
+                "id": 118,
+
+                "categoryId": 16,
+
+                "subCategoryId": 22
+
+            },
+
+            {
+
+                "id": 119,
+
+                "categoryId": 17,
+
+                "subCategoryId": 103
+
+            },
+
+            {
+
+                "id": 120,
+
+                "categoryId": 17,
+
+                "subCategoryId": 104
+
+            },
+
+            {
+
+                "id": 121,
+
+                "categoryId": 17,
+
+                "subCategoryId": 105
+
+            },
+
+            {
+
+                "id": 122,
+
+                "categoryId": 17,
+
+                "subCategoryId": 106
+
+            },
+
+            {
+
+                "id": 123,
+
+                "categoryId": 17,
+
+                "subCategoryId": 107
+
+            },
+
+            {
+
+                "id": 124,
+
+                "categoryId": 17,
+
+                "subCategoryId": 22
+
+            },
+
+            {
+
+                "id": 125,
+
+                "categoryId": 18,
+
+                "subCategoryId": 108
+
+            },
+
+            {
+
+                "id": 126,
+
+                "categoryId": 18,
+
+                "subCategoryId": 109
+
+            },
+
+            {
+
+                "id": 127,
+
+                "categoryId": 18,
+
+                "subCategoryId": 110
+
+            },
+
+            {
+
+                "id": 128,
+
+                "categoryId": 18,
+
+                "subCategoryId": 111
+
+            },
+
+            {
+
+                "id": 129,
+
+                "categoryId": 18,
+
+                "subCategoryId": 112
+
+            },
+
+            {
+
+                "id": 130,
+
+                "categoryId": 18,
+
+                "subCategoryId": 22
+
+            },
+
+            {
+
+                "id": 131,
+
+                "categoryId": 19,
+
+                "subCategoryId": 113
+
+            },
+
+            {
+
+                "id": 132,
+
+                "categoryId": 19,
+
+                "subCategoryId": 114
+
+            },
+
+            {
+
+                "id": 133,
+
+                "categoryId": 19,
+
+                "subCategoryId": 115
+
+            },
+
+            {
+
+                "id": 134,
+
+                "categoryId": 19,
+
+                "subCategoryId": 116
+
+            },
+
+            {
+
+                "id": 135,
+
+                "categoryId": 19,
+
+                "subCategoryId": 117
+
+            },
+
+            {
+
+                "id": 136,
+
+                "categoryId": 19,
+
+                "subCategoryId": 22
+
+            },
+
+            {
+
+                "id": 137,
+
+                "categoryId": 20,
+
+                "subCategoryId": 118
+
+            },
+
+            {
+
+                "id": 138,
+
+                "categoryId": 20,
+
+                "subCategoryId": 119
+
+            },
+
+            {
+
+                "id": 139,
+
+                "categoryId": 20,
+
+                "subCategoryId": 120
+
+            },
+
+            {
+
+                "id": 140,
+
+                "categoryId": 20,
+
+                "subCategoryId": 121
+
+            },
+
+            {
+
+                "id": 141,
+
+                "categoryId": 20,
+
+                "subCategoryId": 122
+
+            },
+
+            {
+
+                "id": 142,
+
+                "categoryId": 20,
+
+                "subCategoryId": 22
+
+            },
+
+            {
+
+                "id": 143,
+
+                "categoryId": 21,
+
+                "subCategoryId": 123
+
+            },
+
+            {
+
+                "id": 144,
+
+                "categoryId": 21,
+
+                "subCategoryId": 124
+
+            },
+
+            {
+
+                "id": 145,
+
+                "categoryId": 21,
+
+                "subCategoryId": 22
+
+            },
+
+            {
+
+                "id": 146,
+
+                "categoryId": 22,
+
+                "subCategoryId": 125
+
+            },
+
+            {
+
+                "id": 147,
+
+                "categoryId": 22,
+
+                "subCategoryId": 126
+
+            },
+
+            {
+
+                "id": 148,
+
+                "categoryId": 22,
+
+                "subCategoryId": 127
+
+            },
+
+            {
+
+                "id": 149,
+
+                "categoryId": 22,
+
+                "subCategoryId": 22
+
+            },
+
+            {
+
+                "id": 150,
+
+                "categoryId": 23,
+
+                "subCategoryId": 128
+
+            },
+
+            {
+
+                "id": 151,
+
+                "categoryId": 23,
+
+                "subCategoryId": 129
+
+            },
+
+            {
+
+                "id": 152,
+
+                "categoryId": 23,
+
+                "subCategoryId": 130
+
+            },
+
+            {
+
+                "id": 153,
+
+                "categoryId": 23,
+
+                "subCategoryId": 131
+
+            },
+
+            {
+
+                "id": 154,
+
+                "categoryId": 23,
+
+                "subCategoryId": 22
+
+            },
+
+            {
+
+                "id": 155,
+
+                "categoryId": 24,
+
+                "subCategoryId": 132
+
+            },
+
+            {
+
+                "id": 156,
+
+                "categoryId": 24,
+
+                "subCategoryId": 133
+
+            },
+
+            {
+
+                "id": 157,
+
+                "categoryId": 24,
+
+                "subCategoryId": 134
+
+            },
+
+            {
+
+                "id": 158,
+
+                "categoryId": 24,
+
+                "subCategoryId": 135
+
+            },
+
+            {
+
+                "id": 159,
+
+                "categoryId": 24,
+
+                "subCategoryId": 136
+
+            },
+
+            {
+
+                "id": 160,
+
+                "categoryId": 24,
+
+                "subCategoryId": 22
+
+            },
+
+            {
+
+                "id": 161,
+
+                "categoryId": 25,
+
+                "subCategoryId": 137
+
+            },
+
+            {
+
+                "id": 162,
+
+                "categoryId": 25,
+
+                "subCategoryId": 138
+
+            },
+
+            {
+
+                "id": 163,
+
+                "categoryId": 25,
+
+                "subCategoryId": 139
+
+            },
+
+            {
+
+                "id": 164,
+
+                "categoryId": 25,
+
+                "subCategoryId": 140
+
+            },
+
+            {
+
+                "id": 165,
+
+                "categoryId": 25,
+
+                "subCategoryId": 141
+
+            },
+
+            {
+
+                "id": 166,
+
+                "categoryId": 25,
+
+                "subCategoryId": 142
+
+            },
+
+            {
+
+                "id": 167,
+
+                "categoryId": 25,
+
+                "subCategoryId": 22
+
+            },
+
+            {
+
+                "id": 168,
+
+                "categoryId": 26,
+
+                "subCategoryId": 143
+
+            },
+
+            {
+
+                "id": 169,
+
+                "categoryId": 26,
+
+                "subCategoryId": 144
+
+            },
+
+            {
+
+                "id": 170,
+
+                "categoryId": 26,
+
+                "subCategoryId": 145
+
+            },
+
+            {
+
+                "id": 171,
+
+                "categoryId": 26,
+
+                "subCategoryId": 146
+
+            },
+
+            {
+
+                "id": 172,
+
+                "categoryId": 26,
+
+                "subCategoryId": 147
+
+            },
+
+            {
+
+                "id": 173,
+
+                "categoryId": 26,
+
+                "subCategoryId": 22
+
+            },
+
+            {
+
+                "id": 174,
+
+                "categoryId": 27,
+
+                "subCategoryId": 148
+
+            },
+
+            {
+
+                "id": 175,
+
+                "categoryId": 27,
+
+                "subCategoryId": 149
+
+            },
+
+            {
+
+                "id": 176,
+
+                "categoryId": 27,
+
+                "subCategoryId": 150
+
+            },
+
+            {
+
+                "id": 177,
+
+                "categoryId": 27,
+
+                "subCategoryId": 15
+
+            },
+
+            {
+
+                "id": 178,
+
+                "categoryId": 27,
+
+                "subCategoryId": 22
+
+            },
+
+            {
+
+                "id": 179,
+
+                "categoryId": 28,
+
+                "subCategoryId": 152
+
+            },
+
+            {
+
+                "id": 180,
+
+                "categoryId": 28,
+
+                "subCategoryId": 153
+
+            },
+
+            {
+
+                "id": 181,
+
+                "categoryId": 28,
+
+                "subCategoryId": 154
+
+            },
+
+            {
+
+                "id": 182,
+
+                "categoryId": 28,
+
+                "subCategoryId": 155
+
+            },
+
+            {
+
+                "id": 183,
+
+                "categoryId": 28,
+
+                "subCategoryId": 156
+
+            },
+
+            {
+
+                "id": 184,
+
+                "categoryId": 28,
+
+                "subCategoryId": 22
+
+            },
+
+            {
+
+                "id": 185,
+
+                "categoryId": 29,
+
+                "subCategoryId": 36
+
+            },
+
+            {
+
+                "id": 186,
+
+                "categoryId": 29,
+
+                "subCategoryId": 157
+
+            },
+
+            {
+
+                "id": 187,
+
+                "categoryId": 29,
+
+                "subCategoryId": 158
+
+            },
+
+            {
+
+                "id": 188,
+
+                "categoryId": 29,
+
+                "subCategoryId": 159
+
+            },
+
+            {
+
+                "id": 189,
+
+                "categoryId": 29,
+
+                "subCategoryId": 160
+
+            },
+
+            {
+
+                "id": 190,
+
+                "categoryId": 29,
+
+                "subCategoryId": 22
+
+            },
+
+            {
+
+                "id": 191,
+
+                "categoryId": 30,
+
+                "subCategoryId": 161
+
+            }
+
+        ],
 
         "locationMaster": [
 
@@ -412,7 +2942,7 @@
 
                 "iconName": null
 
-            },
+           },
 
             {
 
@@ -2060,7 +4590,1619 @@
 
         ],
 
-        "subCategoryMaster": [],
+        "subCategoryMaster": [
+
+            {
+
+                "id": 1,
+
+                "subCategoryName": "Agnosticism",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 2,
+
+                "subCategoryName": "Astrology",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 3,
+
+                "subCategoryName": "Atheism",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 4,
+
+                "subCategoryName": "Hinduism - Veda",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 5,
+
+                "subCategoryName": "Hinduism - Upanishad",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 6,
+
+                "subCategoryName": "Hinduism - Purana",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 7,
+
+                "subCategoryName": "Hinduism - Stotra",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 8,
+
+                "subCategoryName": "Hinduism - Shlok",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 9,
+
+                "subCategoryName": "Hinduism - Scriptures",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 10,
+
+                "subCategoryName": "Buddhism",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 11,
+
+                "subCategoryName": "Jainism",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 12,
+
+                "subCategoryName": "Short Stories",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 13,
+
+                "subCategoryName": "Novels",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 14,
+
+                "subCategoryName": "Spirituality",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 15,
+
+                "subCategoryName": "Epic - Mahabharat",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 16,
+
+                "subCategoryName": "Epic - Ramayan",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 17,
+
+                "subCategoryName": "Volumes - Bhagvadosh Mandal ",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 18,
+
+                "subCategoryName": "Volumes - Shree Vidyan",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 19,
+
+                "subCategoryName": "Volumes - Sampurna Sursagar",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 20,
+
+                "subCategoryName": "Volumes - Hindu Iconography",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 21,
+
+                "subCategoryName": "Volumes - Tantraloka",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 22,
+
+                "subCategoryName": "Others",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 23,
+
+                "subCategoryName": "Careers",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 24,
+
+                "subCategoryName": "Economics",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 25,
+
+                "subCategoryName": "Finance",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 26,
+
+                "subCategoryName": "Industries",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 27,
+
+                "subCategoryName": "International",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 28,
+
+                "subCategoryName": "Investment",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 29,
+
+                "subCategoryName": "Trading",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 30,
+
+                "subCategoryName": "Management",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 31,
+
+                "subCategoryName": "Marketing & Branding",
+
+                "iconName": null
+
+           },
+
+            {
+
+                "id": 32,
+
+                "subCategoryName": "Strategy",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 33,
+
+                "subCategoryName": "Taxation",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 34,
+
+                "subCategoryName": "Retail",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 35,
+
+                "subCategoryName": "Telecom",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 36,
+
+                "subCategoryName": "Criminal Law",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 37,
+
+                "subCategoryName": "Social Law",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 38,
+
+                "subCategoryName": "Corporate Law",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 39,
+
+                "subCategoryName": "Environment Law",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 40,
+
+                "subCategoryName": "Media Law",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 41,
+
+                "subCategoryName": "Family Law",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 42,
+
+                "subCategoryName": "Property Law",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 43,
+
+                "subCategoryName": "International Law",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 44,
+
+                "subCategoryName": "Art History",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 45,
+
+                "subCategoryName": "Calligraphy",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 46,
+
+                "subCategoryName": "Drawing",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 47,
+
+                "subCategoryName": "Fashion",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 48,
+
+                "subCategoryName": "Film",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 49,
+
+                "subCategoryName": "Ethnic & Cultural",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 50,
+
+                "subCategoryName": "Historical",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 51,
+
+                "subCategoryName": "Leaders & Notable People",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 52,
+
+                "subCategoryName": "Military",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 53,
+
+                "subCategoryName": "Comic Books",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 54,
+
+                "subCategoryName": "Comic Strips",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 55,
+
+                "subCategoryName": "DC Comics",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 56,
+
+                "subCategoryName": "Fantasy",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 57,
+
+                "subCategoryName": "Certification",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 58,
+
+                "subCategoryName": "Web Technology",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 59,
+
+                "subCategoryName": "Computer Science",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 60,
+
+                "subCategoryName": "Databases",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 61,
+
+                "subCategoryName": "Asian",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 62,
+
+                "subCategoryName": "Baking",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 63,
+
+                "subCategoryName": "BBQ",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 64,
+
+                "subCategoryName": "Culinary Arts",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 65,
+
+                "subCategoryName": "Desserts",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 66,
+
+                "subCategoryName": "Almanacs & Yearbooks",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 67,
+
+                "subCategoryName": "Atlases & Maps",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 68,
+
+                "subCategoryName": "Catalogs",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 69,
+
+                "subCategoryName": "Colleges",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 70,
+
+                "subCategoryName": "Child Education",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 71,
+
+                "subCategoryName": "Brain Teasers",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 72,
+
+                "subCategoryName": "Entertainers",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 73,
+
+                "subCategoryName": "Games",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 74,
+
+                "subCategoryName": "Humor",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 75,
+
+                "subCategoryName": "Movies",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 76,
+
+                "subCategoryName": "Aging",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 77,
+
+                "subCategoryName": "Alternative Medicine",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 78,
+
+                "subCategoryName": "Beauty, Grooming & Style",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 79,
+
+                "subCategoryName": "Children's Health",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 80,
+
+                "subCategoryName": "Disease & Ailments",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 81,
+
+                "subCategoryName": "African",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 82,
+
+                "subCategoryName": "Ancient",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 83,
+
+                "subCategoryName": "Black History",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 84,
+
+                "subCategoryName": "Canadian",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 85,
+
+                "subCategoryName": "Antiques",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 86,
+
+                "subCategoryName": "Clay",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 87,
+
+                "subCategoryName": "Collecting",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 88,
+
+                "subCategoryName": "Jewelry Making",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 89,
+
+                "subCategoryName": "Architecture",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 90,
+
+                "subCategoryName": "Flowers",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 91,
+
+                "subCategoryName": "Fruit",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 92,
+
+                "subCategoryName": "Home Decorating",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 93,
+
+                "subCategoryName": "Home Improvement",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 94,
+
+                "subCategoryName": "Ghosts",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 95,
+
+                "subCategoryName": "Paranormal",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 96,
+
+                "subCategoryName": "Supernatural",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 97,
+
+                "subCategoryName": "Vampires",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 98,
+
+                "subCategoryName": "Zombies",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 99,
+
+                "subCategoryName": "Action & Adventure",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 100,
+
+                "subCategoryName": "Activities, Crafts & Gam",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 101,
+
+                "subCategoryName": "Activity Books",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 102,
+
+                "subCategoryName": "Animals",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 103,
+
+                "subCategoryName": "Anthologies",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 104,
+
+                "subCategoryName": "Classics",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 105,
+
+                "subCategoryName": "Contemporary",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 106,
+
+                "subCategoryName": "Foreign Language",
+
+                "iconName": null
+
+           },
+
+            {
+
+                "id": 107,
+
+                "subCategoryName": "Genre Fiction",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 108,
+
+                "subCategoryName": "Administration",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 109,
+
+                "subCategoryName": "Allied Health",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 110,
+
+                "subCategoryName": "Basic Sciences",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 111,
+
+                "subCategoryName": "Clinical",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 112,
+
+                "subCategoryName": "Dentistry",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 113,
+
+                "subCategoryName": "Conspiracy",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 114,
+
+                "subCategoryName": "Crime",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 115,
+
+                "subCategoryName": "Detective",
+
+                "iconName": null
+
+           },
+
+            {
+
+                "id": 116,
+
+                "subCategoryName": "Mysteries",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 117,
+
+                "subCategoryName": "Suspense",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 118,
+
+                "subCategoryName": "Adoption",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 119,
+
+                "subCategoryName": "Aging Parents",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 120,
+
+                "subCategoryName": "Child Care",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 121,
+
+                "subCategoryName": "Family Activities",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 122,
+
+                "subCategoryName": "Family Health",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 123,
+
+                "subCategoryName": "Erotica",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 124,
+
+                "subCategoryName": "Gothic",
+
+                "iconName": null
+
+            },
+
+           {
+
+                "id": 125,
+
+                "subCategoryName": "Action",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 126,
+
+                "subCategoryName": "Coming of Age",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 127,
+
+                "subCategoryName": "Dark Fantasy",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 128,
+
+                "subCategoryName": "Agricultural Sciences",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 129,
+
+                "subCategoryName": "Anatomy",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 130,
+
+                "subCategoryName": "Astronomy",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 131,
+
+                "subCategoryName": "Biology",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 132,
+
+                "subCategoryName": "Abuse",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 133,
+
+                "subCategoryName": "Addictions",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 134,
+
+                "subCategoryName": "Anger Management",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 135,
+
+                "subCategoryName": "Anxieties & Phobias",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 136,
+
+                "subCategoryName": "Creativity",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 137,
+
+                "subCategoryName": "Anarchy",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 138,
+
+                "subCategoryName": "Politics",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 139,
+
+                "subCategoryName": "Canadian Politics",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 140,
+
+                "subCategoryName": "Civil Rights",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 141,
+
+                "subCategoryName": "Comparative Politics",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 142,
+
+                "subCategoryName": "Cultural",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 143,
+
+                "subCategoryName": "Baseball & Softball",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 144,
+
+                "subCategoryName": "Basketball",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 145,
+
+                "subCategoryName": "Boating & Sailing",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 146,
+
+                "subCategoryName": "Camping",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 147,
+
+                "subCategoryName": "Extreme Sports",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 148,
+
+                "subCategoryName": "Being a Teen",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 149,
+
+                "subCategoryName": "Historical Fiction",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 150,
+
+                "subCategoryName": "Hobbies",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 151,
+
+                "subCategoryName": "Horror",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 152,
+
+                "subCategoryName": "Africa",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 153,
+
+                "subCategoryName": "Asia",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 154,
+
+                "subCategoryName": "Canada",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 155,
+
+                "subCategoryName": "Caribbean",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 156,
+
+                "subCategoryName": "Guide",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 157,
+
+                "subCategoryName": "Famous Criminals",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 158,
+
+                "subCategoryName": "Murder & Mayhem",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 159,
+
+                "subCategoryName": "Organized Crime",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 160,
+
+                "subCategoryName": "Serial Killers",
+
+                "iconName": null
+
+            },
+
+            {
+
+                "id": 161,
+
+                "subCategoryName": "Wildlife",
+
+                "iconName": null
+
+            }
+
+        ],
 
         "assetCatalogue": [],
 
